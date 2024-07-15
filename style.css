@@ -1,0 +1,13 @@
+.container{
+  display: flex;
+  flex-direction:column;
+  margin-top:50px;
+  padding: 0 50px;
+}
+
+.button{
+  padding: 7px 15px;
+  border-radius: 50px;
+  color: bisque;
+  color: black;
+}
